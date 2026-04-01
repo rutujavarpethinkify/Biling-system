@@ -14,7 +14,6 @@ This project is a frontend-based billing system that allows users to:
 
 It demonstrates strong fundamentals of UI design, state management, and logical implementation of pricing rules.
 
-
 ✨ Key Features
 
 ✔️ Dynamic product quantity management
