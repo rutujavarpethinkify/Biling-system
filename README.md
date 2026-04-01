@@ -42,11 +42,6 @@ It demonstrates strong fundamentals of UI design, state management, and logical 
 💡 The system automatically detects eligible offers and applies them in the final bill.
 
 
-📸 Application Preview
-
-(Add your project screenshot here)
-
-
 ⚙️ Installation & Setup
 
 # Clone the repository
