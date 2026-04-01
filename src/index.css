@@ -38,6 +38,7 @@ main { display: grid; grid-template-columns: 1.05fr 0.95fr; gap: 1rem; }
 .qty-controls button:disabled
  { opacity: .46; cursor: not-allowed; }
 
+ 
 .qty-controls input 
 { width: 3rem; border: 1px solid #dde1f2; border-radius: 6px; text-align: center; }
 
