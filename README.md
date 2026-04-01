@@ -26,10 +26,15 @@ It demonstrates strong fundamentals of UI design, state management, and logical 
 
 🛠️ Tech Stack
 -React
+
 -Redux + Redux Toolkit
+
 -TypeScript
+
 -Hooks (useMemo, useSelector, useDispatch)
+
 -Custom billing logic
+
 -HTML/CSS
 
 🧠 Business Logic Implemented
